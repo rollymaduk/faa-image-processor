@@ -1,5 +1,14 @@
+.imageViewer{
+  height:800px;
+  width:1200px;
+}
+
 .App {
+  display: flex;
   text-align: center;
+  align-content: center;
+  justify-content: center;
+  color:white;
 }
 
 .App-logo {
